@@ -1,4 +1,5 @@
-# Computer Vision Session (Ambreen Hamadani)
+# Computer Vision Session 
+(Ambreen Hamadani)
 In this session, we shall discuss computer vision 
 Take machine learning from the very basics and try to cover the concepts of ML and CV
 
